@@ -1,0 +1,6 @@
+name: ActionbarTimer
+version: 1.0
+main: rotang.ActionbarTimer.ActionbarTimer
+
+commands:
+  atimer:
